@@ -1,2 +1,3 @@
 # Devops practice Repository
-learning git and Devops ok
+learning git and Devops 
+hello devops
